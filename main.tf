@@ -21,7 +21,7 @@ module "kusumastorage" {
   version              = "1.0.0"
   location             = azurerm_resource_group.rg.location
   resource_group_name  = azurerm_resource_group.rg.name
-  storage_account_name = "kusumakumarigavidi1509ram89856778988237"
+  storage_account_name = "kusumastorage1509"
   # insert required variables here
 }
 
